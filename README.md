@@ -3,8 +3,8 @@
 </div>
 
 ## Hi 👋! My name is Daniel and I'm a Computer Engineering Student from Spain 🇪🇸
-🔭 I’m currently working on a Discord Bot with [@purgemebaby](https://github.com/purgemebaby), a swiss army knife for hacking.<br>
-🖼️ [Profile pic](https://web-cdn.bsky.app/profile/oswelt.bsky.social/post/3ldtw65ew7c2q) made by [Oswel Ortiz](https://x.com/Neo_Oswelt).
+- 🔭 Currently working on a Discord Bot with [@purgemebaby](https://github.com/purgemebaby), a swiss army knife for hacking.
+- 🖼️ [Profile pic](https://web-cdn.bsky.app/profile/oswelt.bsky.social/post/3ldtw65ew7c2q) made by [Oswel Ortiz](https://x.com/Neo_Oswelt).
 
 ###
 
@@ -30,6 +30,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=D4nivi.D4nivi&left_color=antiquewhite&right_color=aliceblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=D4nivi.D4nivi&left_color=blue&right_color=grey"  />
 </div>

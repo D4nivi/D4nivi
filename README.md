@@ -4,7 +4,7 @@
 
 ## Hi 👋! My name is Daniel and I'm a Computer Engineering Student from Spain 🇪🇸
 - 🔭 Currently working on a Discord Bot with [@purgemebaby](https://github.com/purgemebaby), a swiss army knife for hacking.
-- 🖼️ [Profile pic](https://web-cdn.bsky.app/profile/oswelt.bsky.social/post/3ldtw65ew7c2q) made by [Oswel Ortiz](https://x.com/Neo_Oswelt).
+- 🖼️ [Profile pic](https://web-cdn.bsky.app/profile/oswelt.bsky.social/post/3ldtw65ew7c2q) made by [Oswel Ortiz](https://x.com/osweltortiz).
 
 ###
 

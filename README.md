@@ -3,15 +3,14 @@
 </div>
 
 ## Hi 👋! My name is Daniel and I'm a Computer Engineering Student from Spain 🇪🇸
-- 🔭 Currently working on a Discord Bot with [@purgemebaby](https://github.com/purgemebaby), a swiss army knife for hacking.
+- 🔭 Currently working on a Trello-like project management tool.
 - 🖼️ [Profile pic](https://web-cdn.bsky.app/profile/oswelt.bsky.social/post/3ldtw65ew7c2q) made by [Oswel Ortiz](https://x.com/osweltortiz).
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D4nivi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=D4nivi&theme=dark&hide_border=false)" height="150" alt="commits graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D4nivi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/D4nivi?cardType=level&theme=radical&fontFamily=Inter&preferLogin=false&Title=FFFFFF" height="150" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=D4nivi&theme=tokyonight&hide_border=false" height="150" alt="commits graph"/>
 </div>
 
 ###
